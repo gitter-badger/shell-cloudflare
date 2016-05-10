@@ -2,6 +2,8 @@
 
 # shell-cloudflare
 
+[![Join the chat at https://gitter.im/frapsoft/shell-cloudflare](https://badges.gitter.im/frapsoft/shell-cloudflare.svg)](https://gitter.im/frapsoft/shell-cloudflare?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 shell script for cloudflare caching and development mode.
 
 ### Tasks
